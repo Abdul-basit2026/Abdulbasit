@@ -121,7 +121,7 @@ const CONFIG = {
       id: 2,
       title: "Hanif Crockery Shop",
       subtitle: "Full-Stack Shop Advertisement Web App",
-"description": "Hanif Crockery Shop Is A Retail Store Offering A Wide Range Of Quality Kitchenware, Home Essentials, And Decorative Crockery Items At Affordable Prices. The Shop Focuses On Providing Durable Products, Customer Satisfaction, And A Convenient Shopping Experience For Households And Businesses."      image: "img1.jpg",
+"description": "Hanif Crockery Shop Is A Retail Store Offering A Wide Range Of Quality Kitchenware, Home Essentials, And Decorative Crockery Items At Affordable Prices. The Shop Focuses On Providing Durable Products, Customer Satisfaction, And A Convenient Shopping Experience For Households And Businesses."      image: "img1.jpg"
       tags: ["HTML5", "CSS3+TAILWIND", "REACT-JS"],
       stats: { users: "500+", products: "800+", sales: "1M+" },
       links: {
