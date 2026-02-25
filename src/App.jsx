@@ -80,7 +80,7 @@ const CONFIG = {
       period: "2 Months Of Development 2025",
       type: "Part-time",
       description: "Hanif Crockery Shop is a retail store offering a wide range of quality kitchenware, home essentials, and decorative crockery items at affordable prices. The shop focuses on providing durable products, customer satisfaction, and a convenient shopping experience for households and businesses.",
-      achievements: [
+  achievements: [
         "Built a strong and trusted customer base through consistent quality products and reliable service.",
         "Successfully expanded product variety to meet diverse household and commercial needs.",
         "Successfully expanded product variety to meet diverse household and commercial needs.",
