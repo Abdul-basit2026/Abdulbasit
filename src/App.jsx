@@ -110,7 +110,7 @@ const CONFIG = {
       id: 1,
       title: "BUSLINE TICKET BOOKING SYSTEM",
       subtitle: "Full-Stack Bus Ticket Booking Web App",
-"description": "Busline Is A Real-Time Bus Ticket Booking And Transport Management System That Synchronizes Online And Station Bookings To Prevent Overbooking And Manual Errors. It Uses Modern Full-Stack Technologies To Provide Secure Authentication, Live Seat Updates, And Efficient Scheduling For Intercity Routes."      image: "FYP.jpg",
+"description": "Busline Is A Real-Time Bus Ticket Booking And Transport Management System That Synchronizes Online And Station Bookings To Prevent Overbooking And Manual Errors. It Uses Modern Full-Stack Technologies To Provide Secure Authentication, Live Seat Updates, And Efficient Scheduling For Intercity Routes.",      image: "FYP.jpg",
       tags: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
       stats: { users: "50+", positive: "200+", Appreciate: "100+" },
       links: {},
