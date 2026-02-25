@@ -22,16 +22,14 @@ const CONFIG = {
   profileImage: "/profile.jpg",
   
   // About
-  about: "I'm a passionate Computer Science graduate from Islamia College University Peshawar with a Diploma in Information Technology from PIEMS College. I specialize in building responsive web applications using modern technologies. My journey in tech started with IT support and networking, which gave me a solid foundation in problem-solving and system architecture.",
-  
+"about": "I'm A Passionate Computer Science Graduate From Islamia College University Peshawar With A Diploma In Information Technology From PIEMS College. I Specialize In Building Responsive Web Applications Using Modern Technologies. My Journey In Tech Started With IT Support And Networking, Which Gave Me A Solid Foundation In Problem-Solving And System Architecture."  
   // Education
   education: [
     {
       degree: "BS COMPUTER SCIENCE",
       school: "ISLAMIA COLLEGE UNIVERSITY PESHAWAR ",
       year: "2021 - 2025",
-      description: "Rigorous training across the computing spectrum: theoretical foundations (automata, formal languages, computational complexity), systems-level implementation (assembly, architecture, algorithms, data structures), data management (database internals, optimization), intelligent computing (machine learning, AI, data science, statistical analytics), and modern application development (full-stack web engineering). Delivered production-grade projects in database systems, intelligent web platforms, and data-driven solutions.."
-    },
+"description": "Rigorous Training Across The Computing Spectrum: Theoretical Foundations (Automata, Formal Languages, Computational Complexity), Systems-Level Implementation (Assembly, Architecture, Algorithms, Data Structures), Data Management (Database Internals, Optimization), Intelligent Computing (Machine Learning, AI, Data Science, Statistical Analytics), And Modern Application Development (Full-Stack Web Engineering). Delivered Production-Grade Projects In Database Systems, Intelligent Web Platforms, And Data-Driven Solutions."    },
     {
       degree: "DIPLOMA IN INFORMATION TECHNOLOGY (DIT)",
       school: "PIEMS COLLEGE SYSTEM PESHAWAR",
@@ -112,8 +110,7 @@ const CONFIG = {
       id: 1,
       title: "BUSLINE TICKET BOOKING SYSTEM",
       subtitle: "Full-Stack Bus Ticket Booking Web App",
-      description: "Busline is a real-time bus ticket booking and transport management system that synchronizes online and station bookings to prevent overbooking and manual errors. It uses modern full-stack technologies to provide secure authentication, live seat updates, and efficient scheduling for intercity routes.",
-      image: "FYP.jpg",
+"description": "Busline Is A Real-Time Bus Ticket Booking And Transport Management System That Synchronizes Online And Station Bookings To Prevent Overbooking And Manual Errors. It Uses Modern Full-Stack Technologies To Provide Secure Authentication, Live Seat Updates, And Efficient Scheduling For Intercity Routes."      image: "FYP.jpg",
       tags: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS"],
       stats: { users: "50+", positive: "200+", Appreciate: "100+" },
       links: {},
@@ -124,8 +121,7 @@ const CONFIG = {
       id: 2,
       title: "Hanif Crockery Shop",
       subtitle: "Full-Stack Shop Advertisement Web App",
-      description: "Hanif Crockery Shop is a retail store offering a wide range of quality kitchenware, home essentials, and decorative crockery items at affordable prices. The shop focuses on providing durable products, customer satisfaction, and a convenient shopping experience for households and businesses.",
-      image: "img1.jpg",
+"description": "Hanif Crockery Shop Is A Retail Store Offering A Wide Range Of Quality Kitchenware, Home Essentials, And Decorative Crockery Items At Affordable Prices. The Shop Focuses On Providing Durable Products, Customer Satisfaction, And A Convenient Shopping Experience For Households And Businesses."      image: "img1.jpg",
       tags: ["HTML5", "CSS3+TAILWIND", "REACT-JS"],
       stats: { users: "500+", products: "800+", sales: "1M+" },
       links: {
@@ -138,8 +134,7 @@ const CONFIG = {
       id: 3,
       title: "Portfolio Web App",
       subtitle: "Personal Portfolio Web Application",
-      description: "My portfolio highlights my full-stack development skills, showcasing real-world projects with modern technologies, responsive design, and real-time functionality. It demonstrates my ability to build scalable, secure, and user-focused web applications while reflecting my continuous learning and problem-solving expertise.",
-      image: "pic.jpg",
+"description": "My Portfolio Highlights My Full-Stack Development Skills, Showcasing Real-World Projects With Modern Technologies, Responsive Design, And Real-Time Functionality. It Demonstrates My Ability To Build Scalable, Secure, And User-Focused Web Applications While Reflecting My Continuous Learning And Problem-Solving Expertise."      image: "pic.jpg",
       tags: ["HTML5", "CSS3+TAILWIND", "REACT-JS"],
       stats: { Views: "200+", Likes: "5,000+", Comments: "500+" },
       links: {
