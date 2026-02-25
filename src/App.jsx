@@ -6,7 +6,7 @@ import React, { useState, useEffect } from 'react';
 const CONFIG = {
   name: "ABDUL-BASIT",
   title: "CS GRADUATE & MERN STACK DEVELOPER",
-  tagline: "Building digital experiences with modern web technologies",
+  tagline: "Building Digital Experiences With Modern Web Technologies",
   email: "basitafzal890@gmail.com",
   phone: "+92 3088004748",
   altPhone: "+92 3336642402",
@@ -22,7 +22,7 @@ const CONFIG = {
   profileImage: "/profile.jpg",
   
   // About
-"about": "I'm A Passionate Computer Science Graduate From Islamia College University Peshawar With A Diploma In Information Technology From PIEMS College. I Specialize In Building Responsive Web Applications Using Modern Technologies. My Journey In Tech Started With IT Support And Networking, Which Gave Me A Solid Foundation In Problem-Solving And System Architecture."  
+"about": "I'm A Passionate Computer Science Graduate From Islamia College University Peshawar With A Diploma In Information Technology From PIEMS College. I Specialize In Building Responsive Web Applications Using Modern Technologies. My Journey In Tech Started With IT Support And Networking, Which Gave Me A Solid Foundation In Problem-Solving And System Architecture.",
   // Education
   education: [
     {
