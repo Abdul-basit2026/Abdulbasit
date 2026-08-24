@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
 
+const API_BASE_URL = (import.meta.env.VITE_API_BASE_URL || '').replace(/\/$/, '');
+
 // ==========================================
 // CONFIGURATION - YOUR DETAILS
 // ==========================================
@@ -273,9 +275,9 @@ const CONFIG = {
   ,
   // Toggle display of Projects section (set false to hide)
   showProjects: false,
-  // Webhook endpoints (optional). Set these to Formspree / Zapier / your server URL to receive notifications.
-  contactWebhook: "http://localhost:5175/send-email",
-  viewWebhook: "http://localhost:5175/track-view",
+  // Optional API server. Leave VITE_API_BASE_URL empty on static hosting.
+  contactWebhook: API_BASE_URL ? `${API_BASE_URL}/send-email` : '',
+  viewWebhook: API_BASE_URL ? `${API_BASE_URL}/track-view` : '',
 };
 
 // ==========================================
